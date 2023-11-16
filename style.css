@@ -6,6 +6,11 @@
     background-color: black;
     color: white;
 }
+.myimage{
+ width:"500px";
+ height:"500px";
+ object-fit:"cover";
+}
 .sidebar{
     position: absolute;
    /* background-color:rgb(168, 165,165); */
